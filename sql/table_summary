@@ -1,0 +1,18 @@
+users Table:
+
+user_id: This is the primary key of the table. It uniquely identifies each user in the system.
+username: This field stores the username of the user.
+email: This field stores the email address of the user.
+
+
+referrals Table:
+
+referral_id: This is the primary key of the table. It uniquely identifies each referral entry.
+referrer_id: This field represents the referrer's user ID. It is a foreign key that references the user_id in the users table. It indicates the user who referred the new user.
+left_child_id: This field stores the user ID of the left child in the binary tree hierarchy. It is also a foreign key referencing the user_id in the users table.
+right_child_id: This field stores the user ID of the right child in the binary tree hierarchy. It is another foreign key referencing the user_id in the users table.
+In summary:
+
+The users table stores user data, including their unique user_id, username, and email.
+The referrals table maintains the binary tree structure of the referral hierarchy. Each entry has a referral_id, a reference to the referrer_id, and two references for the left and right children in the tree.
+These table structures allow you to track users' referral relationships in a binary tree format, where each user can refer others, and those referred users become children in the hierarchy

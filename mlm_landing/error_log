@@ -1,0 +1,163 @@
+[20-Jun-2023 05:21:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:21:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:21:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:21:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:21:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:21:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:23:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:23:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:24:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:24:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:24:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:24:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:24:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:24:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:24:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:26:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:26:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:26:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:26:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:26:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:26:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:41:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:42:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 05:42:26 UTC] PHP Warning:  Undefined array key "reff" in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 13
+[20-Jun-2023 05:42:30 UTC] PHP Warning:  Undefined array key "reff" in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 13
+[20-Jun-2023 05:42:31 UTC] PHP Warning:  Undefined array key "reff" in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 13
+[20-Jun-2023 06:00:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 06:00:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 06:00:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 06:00:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 06:01:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 06:19:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 06:19:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 06:19:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44
+[20-Jun-2023 06:19:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY' in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php:44
+Stack trace:
+#0 /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/arialkhk/mlm-user.eighty5technologies.com/mlm_landing/backend.php on line 44

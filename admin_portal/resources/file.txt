@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>OTP Code | fbsworldnetwork</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="icon" href="{{favIcon1}}" type="image/x-icon">
+       <style type="text/css">
+            @media only screen and (max-width: 550px), screen and (max-device-width: 550px) {
+                body[yahoo] .buttonwrapper { background-color: transparent !important; }
+                body[yahoo] .button { padding: 0 !important; }
+                body[yahoo] .button a { background-color: #9b59b6; padding: 15px 25px !important; }
+            }
+
+            @media only screen and (min-device-width: 601px) {
+                .content { width: 600px !important; }
+                .col387 { width: 387px !important; }
+            }
+        </style>
+    </head>
+    <body bgcolor="#34495E" style="margin: 0; padding: 0;" yahoo="fix">
+        <!--[if (gte mso 9)|(IE)]>
+        <table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td>
+        <![endif]-->
+        <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width: 100%; max-width: 600px;" class="content">
+            <tr>
+                <td style="padding: 15px 10px 15px 10px;">
+                    
+                </td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#070b20" style="padding: 30px 10px 0px 10px; color: #ffffff; font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">
+                     <img src="https://mlm-user.eighty5technologies.com/images/gtron-logo.svg" alt="GTRON" width="256" height="60" style="display:block; margin-bottom: 15px;">
+                   
+                </td>
+            </tr>
+           
+            <tr>
+                <td align="left" bgcolor="#ffffff" style="padding: 0px 20px 0px 10px; color: 555555; font-family: Arial, sans-serif; font-size: 12px; line-height: 25px; ">
+                    <b>One time password (2FA Code) is send to your register email. Please use this code for furthur action. This code will expire after successful action.</b><br>                    
+                </td>
+            </tr>
+          
+            <tr>
+                <td align="left" bgcolor="#ffffff" style="padding: 20px 25px 20px 0px; font-family: Arial, sans-serif;">
+                    <table bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0" class="buttonwrapper">
+                        <tr>
+                            <td align="center" height="50" style=" padding: 0 25px 0 10px; font-family: Arial, sans-serif; font-size: 32px; font-weight: bold;" class="button">
+                                <span style="color: #000000; text-align: center;">2FA Code: </span>
+                                <span style="color: #ED3237; text-align: center;">{{code}}</span>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+             <tr>
+                <td align="left" bgcolor="#ffffff" style="padding: 0px 20px 0px 10px; color: #ED3237; font-family: Arial, sans-serif; font-size: 15px; line-height: 25px; ">
+                    <b>Warning:</b><br>                    
+                </td>
+            </tr>
+            <tr>
+                <td align="left" bgcolor="#ffffff" style="padding: 0px 20px 0px 10px; color: 555555; font-family: Arial, sans-serif; font-size: 12px; line-height: 25px; ">
+                    <b>* This code is confidential and please don\'t share this with code with anyone.</b><br>                    
+                </td>
+            </tr>
+            <tr>
+                <td align="left" bgcolor="#ffffff" style="padding: 0px 20px 0px 10px; color: 555555; font-family: Arial, sans-serif; font-size: 12px; line-height: 25px; ">
+                    <b>* Keep your registered email and password confidential because code is sent to that email.</b><br>                    
+                </td>
+            </tr>
+            <tr>
+                <td align="left" bgcolor="#ffffff" style="padding: 0px 20px 30px 10px; color: 555555; font-family: Arial, sans-serif; font-size: 12px; line-height: 25px; ">
+                    <b>* This code is sent at your request and the company is not responsible for any misuse.</b><br>                    
+                </td>
+            </tr>
+            <tr>
+                <td align="center" bgcolor="#070b20" style="padding: 15px 10px 15px 10px; color: #ffffff; font-family: Arial, sans-serif; font-size: 12px; line-height: 25px;">
+                    <b>Gtron © All Rights Reserved</a></b>
+                </td>
+            </tr>
+        </table>
+        <!--[if (gte mso 9)|(IE)]>
+                </td>
+            </tr>
+        </table>
+        <![endif]-->
+    </body>
+</html>

@@ -1,0 +1,592 @@
+ @media (max-width: 650px) {          /*---------------MOBILEs-----------------*/
+
+
+#outer{
+    display: block;
+}
+
+.left{
+    min-height: auto;
+    width: 100%;
+    padding-left: 1rem;
+    padding-top: 2.2rem;
+    padding-right: 1rem;
+}
+
+.left .logo{
+    width: 5rem;
+    margin-left: 1rem;
+    margin-bottom: 2.8rem;
+}
+
+
+.left ul li{
+    padding: 0.8rem;
+    border-radius: 1rem;
+    margin-bottom: 0.2rem;
+}
+
+
+.left ul li .icon{
+    width: 0.9rem;
+    margin-right: 0.6rem;
+}
+
+
+.left ul li a{
+font-size: 0.8rem;
+}
+
+
+
+.left .logout{
+    margin-top: 1rem;
+    padding: 0.8rem;
+    font-size: 0.8rem;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+}
+
+
+.left .logout img{
+    width: 1rem;
+}
+
+
+.middle{
+    min-height: auto;
+    width: 100%;
+    padding-top: 2.2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+.middle h1{
+    font-size: 1.2rem;
+}
+
+.middle h1 img{
+    width: 2.4rem;
+    height: 2.4rem;
+    margin-right: 0.5rem;
+}
+
+.middle .input-div{
+    width: 100%;
+    float: none;
+    margin-top: 1rem;
+}
+
+
+.middle .search-icon{
+    width: 0.8rem;
+}
+
+
+.middle .search{
+    width: 100%;
+    font-size: 0.7rem;
+    padding-left: 1.8rem;
+    border-radius: 0.4rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+}
+
+
+
+.middle .search-btn{
+font-size: 0.7rem;
+}
+
+
+.middle .wallet-div{
+    padding: 0.4rem 0.4rem 0rem 1rem;
+    margin-top: 1rem;
+}
+
+
+.middle .wallet-div p{
+    font-size: 0.55rem;
+    margin-top: 0.5rem;
+}
+
+
+.middle .wallet-div .copy-btn{
+  position: absolute;
+  top: 50%;
+  right: -10%;
+  transform: translate(-50%, -50%);
+      padding-left: 1rem;
+      padding-right: 1rem;
+        font-size: 0.55rem;
+        border-radius: 0.4rem;
+}
+
+.middle .wallet-div .copy-btn img{
+    width: 0.7rem;
+    margin-right: 0.3rem;
+}
+
+.middle .id-div{
+    margin-top: 1rem;
+    padding: 0rem;
+}
+
+.middle .id-div-inner{
+    padding: 1rem 0.4rem 0.4rem 1rem;
+    border-radius: 0.4rem;
+}
+
+.middle .id-div-inner p{
+    font-size: 0.55rem;
+}
+
+
+
+.middle .id-div-inner span{
+        font-size: 0.55rem;
+        margin-top: -1.6rem;
+}
+
+
+.middle .l-div{
+    padding: 0rem;
+}
+
+
+.middle .violet-div{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+
+.middle .violet-div img{
+    width: 10rem;
+}
+
+
+.middle .violet-div p{
+    font-size: 0.6rem;
+    margin-top: 1rem;
+}
+
+
+.middle .violet-div h2{
+ font-size: 1.2rem;
+ margin-top: -0.5rem;
+}
+
+
+.middle .orange-div{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+
+.middle .orange-div p{
+    font-size: 0.6rem;
+}
+
+
+.middle .orange-div h2{
+ font-size: 0.9rem;
+ margin-top: -0.5rem;
+}
+
+
+.middle .orange-div img{
+    width: 3.5rem;
+}
+
+
+
+.middle .grey-div{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+
+.middle .grey-div p{
+    font-size: 0.6rem;
+}
+
+
+.middle .grey-div h2{
+ font-size: 0.9rem;
+ margin-top: -0.5rem;
+}
+
+
+.middle .grey-div button{
+    width: 100%;
+    margin-top: 0.2rem;
+    font-size: 0.55rem;
+    padding: 0.4rem;
+    border-radius: 0.2rem;
+}
+
+
+.middle .m-div{
+    padding: 0rem;
+}
+
+
+
+.middle .pink-div{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+
+.middle .pink-div p{
+    font-size: 0.6rem;
+}
+
+
+.middle .pink-div h2{
+ font-size: 0.9rem;
+ margin-top: -0.5rem;
+}
+
+
+.middle .pink-div button{
+    margin-top: 0.2rem;
+    font-size: 0.55rem;
+    padding: 0.4rem;
+    border-radius: 0.2rem;
+}
+
+
+.middle .pink-div img{
+    width: 6rem;
+}
+
+
+
+.middle .green-div{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+
+.middle .green-div p{
+    font-size: 0.6rem;
+}
+
+
+.middle .green-div h2{
+ font-size: 0.9rem;
+ margin-top: -0.5rem;
+}
+
+
+.middle .green-div img{
+    width: 6rem;
+}
+
+
+
+.middle .blue-div{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+
+.middle .blue-div p{
+    font-size: 0.6rem;
+}
+
+
+.middle .blue-div h2{
+ font-size: 0.9rem;
+ margin-top: -0.5rem;
+}
+
+
+.middle .blue-div img{
+    width: 6rem;
+}
+
+.middle .blue-div .second-row{
+    margin-top: 0.2rem;
+}
+
+
+.middle .r-div{
+    padding: 0rem;
+}
+
+
+.middle .package-div{
+    border-radius: 0.5rem;
+    margin-top: 1.5rem;
+    padding: 0.6rem;
+}
+
+
+.middle .package-div .white-div{
+padding: 0.5rem;
+border-radius: 0.2rem;
+}
+
+
+
+.middle .package-div .white-div p{
+    font-size: 0.6rem;
+}
+
+.middle .package-div .white-div h2{
+ font-size: 0.9rem;
+ margin-top: -0.5rem;
+}
+
+.middle .package-div .white-div img{
+width: 6rem;
+margin-bottom: 0.5rem;
+}
+
+
+.middle .package-div h3{
+    font-size: 0.55rem;
+    margin-top: 0.5rem;
+}
+
+.middle .package-div h4{
+        font-size: 0.6rem;
+        margin-top: -0.2rem;
+}
+
+
+.middle .package-div .upgrade-btn{
+    margin-top: 0.2rem;
+    font-size: 0.55rem;
+    padding: 0.4rem;
+    border-radius: 0.2rem;
+}
+
+
+.middle .package-div .upgrade-btn img{
+    width: 0.5rem;
+    margin-right: 0.4rem;
+}
+
+
+.middle .package-div p{
+    font-size: 0.6rem;
+}
+
+.middle .package-div .rewards{
+    margin-top: -0.5rem;
+}
+
+
+.middle .package-div .tree-btn{
+    margin-top: 0.2rem;
+    font-size: 0.55rem;
+    padding: 0.4rem;
+    border-radius: 0.2rem;
+    margin-top: 0.5rem;
+}
+
+
+.middle .package-div .activated-btn{
+    margin-top: 0.2rem;
+    font-size: 0.55rem;
+    padding: 0.4rem;
+    border-radius: 0.2rem;
+    margin-top: 0.5rem;
+}
+
+
+
+.middle .tree-div-outer{
+ padding: 0rem;
+}
+
+.middle .tree-div{
+    margin-top: 1.5rem;
+    border-radius: 0.4rem;
+    padding: 1rem;
+}
+
+
+.middle .tree-div img{
+  width: 100%;
+}
+
+.middle .tree-div h2{
+    font-size: 0.7rem;
+    margin-bottom: 0rem;
+}
+
+.middle .announcements-outer{
+    padding: 0rem;
+    padding-left: 0rem;
+}
+
+
+.middle .announcements{
+    margin-top: 1.5rem;
+    border-radius: 0.4rem;
+    padding: 1rem;
+}
+
+
+.middle .announcements h2{
+    font-size: 0.7rem;
+  padding-left: 2rem;
+}
+
+.middle .announcements h2 img{
+    left: 0.5rem;
+    width: 2rem;
+}
+
+
+.middle .announcements p{
+    font-size: 0.7rem;
+     padding-left: 2rem;
+     margin-top: 0.5rem;
+}
+
+.middle .announcements p img{
+    width: 1rem;
+    left: 0.5rem;
+}
+
+
+
+.middle .token-div{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.middle .token-div p{
+    font-size: 0.55rem;
+    margin-top: 0.5rem;
+}
+
+.middle .token-div h2{
+    font-size: 0.7rem;
+    margin-top: -1.8rem;
+}
+
+
+
+.right{
+    min-height: auto;
+    width: 100%;
+    padding-top: 2.2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+
+.right .profile-btn{
+    font-size: 0.9rem;
+    padding: 0.6rem;
+    border-radius: 0.4rem;
+}
+
+
+.right .profile-btn img{
+    width: 2rem;
+    left: 2rem;
+}
+
+.right h2{
+    font-size: 0.7rem;
+    margin-top: 3rem;
+}
+
+
+.right h2 img{
+ width: 1rem;
+ margin-right: 0.5rem;
+}
+
+
+.right .wallet-btn{
+    font-size: 0.55rem;
+    padding: 0.5rem;
+    border-radius: 0.3rem;
+}
+
+
+.right .white-div{
+    margin-top: 1rem;
+    padding: 1rem;
+}
+
+
+.right .white-div input{
+    font-size: 0.55rem;
+    padding: 0.4rem;
+}
+
+
+.right .white-div .withdraw-btn{
+    font-size: 0.55rem;
+    padding: 0.4rem;
+    border-radius: 0.2rem;
+    margin-top: 0.4rem;
+}
+
+
+.right .white-div .withdraw-btn img{
+    width: 0.7rem;
+    margin-right: 0.4rem;
+
+}
+
+
+
+
+
+ }
+
+
+
+
+  @media (max-width: 900px)  /*-----------TABLETS--------------*/
+  and (min-width: 700px){
+   
+  
+
+
+
+  }
+
+
+
+
+
+
+
+  @media (max-width: 1300px)  /*-----------13/10 inch laptop--------------*/
+  and (min-width: 900px){
+   
+  
+
+
+
+  }
+
+
+
+
+
+
+  @media (max-width: 1930px)  /*-----------23/24 inch laptop--------------*/
+  and (min-width: 1820px){
+
+
+
+  }  

@@ -1,0 +1,44 @@
+[13-May-2017 04:31:02 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given [expertz147@gmail.com,expertz1994@gmail.com,nadeemghaffar9@gmail.com,crissjhon1122@gmail.com] does not comply with RFC 2822, 3.6.2.' in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php:352
+Stack trace:
+#0 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(264): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('expertz147@gmai...')
+#1 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(108): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(65): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderFactory.php(60): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home4/adeeljavaid/public_html/swi in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 352
+[13-May-2017 04:31:52 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given ['expertz147@gmail.com','expertz1994@gmail.com','nadeemghaffar9@gmail.com','crissjhon1122@gmail.com'] does not comply with RFC 2822, 3.6.2.' in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php:352
+Stack trace:
+#0 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(264): Swift_Mime_Headers_MailboxHeader->_assertValidAddress(''expertz147@gma...')
+#1 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(108): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(65): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderFactory.php(60): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home4/adeeljavaid/public_ in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 352
+[13-May-2017 04:32:25 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given ['expertz147@gmail.com','expertz1994@gmail.com','nadeemghaffar9@gmail.com','crissjhon1122@gmail.com'] does not comply with RFC 2822, 3.6.2.' in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php:352
+Stack trace:
+#0 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(264): Swift_Mime_Headers_MailboxHeader->_assertValidAddress(''expertz147@gma...')
+#1 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(108): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(65): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderFactory.php(60): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home4/adeeljavaid/public_ in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 352
+[13-May-2017 04:33:17 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given ['expertz147@gmail.com', 'expertz1994@gmail.com', 'nadeemghaffar9@gmail.com', 'crissjhon1122@gmail.com'] does not comply with RFC 2822, 3.6.2.' in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php:352
+Stack trace:
+#0 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(264): Swift_Mime_Headers_MailboxHeader->_assertValidAddress(''expertz147@gma...')
+#1 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(108): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(65): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderFactory.php(60): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home4/adeeljavaid/publ in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 352
+[13-May-2017 04:33:56 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/adeeljavaid/public_html/swiftmailer/test_mail.php on line 250
+[13-May-2017 04:34:22 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/adeeljavaid/public_html/swiftmailer/test_mail.php on line 250
+[13-May-2017 04:35:22 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given ['expertz147@gmail.com', 'expertz1994@gmail.com', 'nadeemghaffar9@gmail.com', 'crissjhon1122@gmail.com'  => 'A name'] does not comply with RFC 2822, 3.6.2.' in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php:352
+Stack trace:
+#0 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(264): Swift_Mime_Headers_MailboxHeader->_assertValidAddress(''expertz147@gma...')
+#1 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(108): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(65): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderFactory.php(60): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home4/ade in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 352
+[13-May-2017 04:35:41 America/Chicago] PHP Fatal error:  Uncaught exception 'Swift_RfcComplianceException' with message 'Address in mailbox given ['expertz147@gmail.com', 'expertz1994@gmail.com', 'nadeemghaffar9@gmail.com', 'crissjhon1122@gmail.com'] does not comply with RFC 2822, 3.6.2.' in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php:352
+Stack trace:
+#0 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(264): Swift_Mime_Headers_MailboxHeader->_assertValidAddress(''expertz147@gma...')
+#1 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(108): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php(65): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/SimpleHeaderFactory.php(60): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home4/adeeljavaid/publ in /home4/adeeljavaid/public_html/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 352

@@ -1,0 +1,146 @@
+ body{
+    background: none !important;
+ }
+ .custom-navbar {
+    /* background: transparent; */
+    background: #070b20;
+    color: #586088;
+    /* padding: 2rem 5%; */
+    padding: 1rem 5%;
+    position: fixed;
+    width: 100vw;
+    z-index: 99;
+    transition: 0.3s ease-in-out;
+
+}
+ .one-bg{
+    /* background: linear-gradient(0deg, rgba(7, 10, 27, 0.2), rgba(7, 10, 27, 0.2)), url(/images/blue-bg-1.png); */
+
+        /* background: linear-gradient(0deg, rgba(7, 10, 27, 0.2), rgba(7, 10, 27, 0.2)), url(/images/bg-one.mp4);  */
+        /* height: 100vh; */
+        /* background:black url(http://fc01.deviantart.net/fs71/f/2012/160/b/9/stars_by_paulinemoss-d52un4e.jpg);
+      animation: stars 205s linear alternate; */
+        /* background-position: 50% 20%; */
+        /* background-repeat: no-repeat;
+        background-size: cover;
+
+        /* text-align: center; */
+
+text-align: center;
+        background: url(../images/one.gif);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        min-height: 100vh;
+        padding: 10% 5% 10%;
+        /* display: flex;
+        align-items: center; */
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        margin-top: 6%;
+
+
+}
+
+
+.one-bg h2 {
+    font-weight: 600;
+    font-size: 3.5rem;
+    line-height: 4rem;
+    /* text-align: center; */
+    color: #FFFFFF;
+    word-wrap: break-word;
+    padding-top: 3rem;
+}
+
+.one-bg h2 .blue-txt {
+
+    background: -webkit-linear-gradient(left, #9289FE, #4CDBFD, #63FBDA);
+    background: -o-linear-gradient(right, #9289FE, #4CDBFD, #63FBDA);
+    background: -moz-linear-gradient(right, #9289FE, #4CDBFD, #63FBDA);
+    background: linear-gradient(to right, #9289FE, #4CDBFD, #63FBDA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+
+.one-bg p {
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    /* text-align: center; */
+    color: #c1c5d2;
+    margin-top: 1rem;
+}
+
+.one-bg button {
+    background: #09001D;
+    box-shadow: 0px -2px 45px -21px #2388FF, 0px -1px 35px #5200FF;
+    border-radius: 43px;
+    font-size: 1.2rem;
+    text-align: center;
+    color: #5BEFE8;
+    padding: 1rem 2rem;
+    border: none;
+    margin-top: 1rem;
+}
+
+.one-bg button:hover {
+    color: #72deff;
+}
+@media only screen and (max-width: 768px) {
+
+
+    .one-bg {
+
+        padding: 5% 5% 10%;
+        text-align: center;
+        flex-direction: column-reverse;
+    }
+
+    .one-bg button {
+        box-shadow: 0px -2px 14px -21px #2388FF, 0px -1px 30px #5200FF;
+
+    }
+
+    .one-bg h2 {
+        font-size: 3rem;
+        line-height: 4rem;
+    }
+
+    .one-bg p {
+        font-size: 1.5rem;
+    }
+
+  
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .one-bg h2 {
+        font-size: 2rem;
+        line-height: 3rem;
+        padding-top: 0;
+    }
+
+
+    .one-bg p {
+
+        font-size: 1.2rem;
+        line-height: 1.5rem;
+        margin-top: 2rem;
+    }
+
+    .one-bg button {
+        font-size: 1.3rem;
+        padding: 0.5rem 2rem;
+        margin-top: 1rem;
+    }
+
+}
+
+
+
